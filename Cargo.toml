@@ -1,0 +1,5 @@
+[package]
+
+name = "aggregator"
+version = "0.0.1"
+authors = [ "Avi Bryant <avi@avibryant.com>" ]
